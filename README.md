@@ -1,3 +1,3 @@
 # devops-livecoding
 
-base for GitHub Actions
+Ce projet est maintenant le mien
